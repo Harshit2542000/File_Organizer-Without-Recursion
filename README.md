@@ -8,3 +8,5 @@ It has the following functionalities(3 commands) in file system:-
 2.tree->used to tell all the files and folders in a particular directory path given to it. tree<pathname>
 
 3.organize->used to organize the files and folders in a particular directory path given to it based on the extension of files. organize<pathname>
+
+ Modules Used:-fs,path modules
